@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baf0cbe4-376b-457d-8532-da6717ddcd48" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oQytkW7qwqyCgrtbMX2Hn5bgHW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.orange_version1 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.TestAddEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestLogin (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestLogout.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestLogout.testValidLogout.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestSearchEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aksil amina/Desktop/Nassiba project/Try-Framework&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aksil amina/Desktop/final selenium/orange_framwork/orange_version1/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.TestAddEmployee">
+    <configuration name="TestAddEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange_version1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.TestAddEmployee" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange_version1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.TestLogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange_version1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.TestLogout" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLogout.testValidLogout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange_version1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.TestLogout" />
+      <option name="METHOD_NAME" value="testValidLogout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSearchEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orange_version1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="system" />
+      <option name="MAIN_CLASS_NAME" value="system.TestSearchEmployee" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestAddEmployee" />
+        <item itemvalue="TestNG.TestLogin" />
+        <item itemvalue="TestNG.TestSearchEmployee" />
+        <item itemvalue="TestNG.TestLogout" />
+        <item itemvalue="TestNG.TestLogout.testValidLogout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baf0cbe4-376b-457d-8532-da6717ddcd48" name="Changes" comment="" />
+      <created>1730816311251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730816311251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
