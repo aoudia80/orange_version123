@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baf0cbe4-376b-457d-8532-da6717ddcd48" name="Changes" comment="" />
+    <list default="true" id="baf0cbe4-376b-457d-8532-da6717ddcd48" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/Base.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -35,6 +41,7 @@
     &quot;TestNG.TestLogout.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.TestLogout.testValidLogout.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.TestSearchEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/aksil amina/Desktop/Nassiba project/Try-Framework&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aksil amina/Desktop/final selenium/orange_framwork/orange_version1/src/main/java/org/example/Main.java&quot;,
